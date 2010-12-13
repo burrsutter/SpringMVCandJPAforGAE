@@ -5,6 +5,12 @@ Description:  This is a template project for use with the following technologies
   Google App Engine (this is a Google Project)
   SpringMVC
   JPA
+
+Github  
+https://github.com/burrsutter/SpringMVCandJPAforGAE
+  
+Running Demo:
+http://springmvc-jpa-gae.appspot.com
   
 ToDos:
  - Figure out logging
